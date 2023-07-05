@@ -37,3 +37,7 @@ django-admin startproject website
 cd website
 python manage.py startapp main
 ```
+7. Run the project in website directory
+```
+python manage.py runserver
+```
