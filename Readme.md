@@ -4,6 +4,10 @@
 <br/>
 [crispy-bootstrap5](https://pypi.org/project/crispy-bootstrap5/)
 
+#### Miscellaneous
+[gitignore](https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/)
+
+
 1. My python version is 3.11.4
 ```
 python --version
